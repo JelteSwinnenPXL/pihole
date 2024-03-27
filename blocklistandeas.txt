@@ -1,0 +1,55 @@
+# Pi-hole Game, Porn, and Gambling Blocklist 
+
+# Block game-related domains 
+(^|\.)gaming\.com$ 
+(^|\.)game\.net$ 
+(^|\.)gamers\.org$ 
+(^|\.)spelletjes\.nl$ 
+(^|\.)gaming\.nl$ 
+(^|\.)games\.nl$ 
+(^|\.)gaming\.be$ 
+(^|\.)spelletjes\.be$ 
+(^|\.)jeux\.fr$           # Frans 
+(^|\.)spiele\.de$         # Duits 
+(^|\.)giochi\.it$         # Italiaans 
+(^|\.)juegos\.es$         # Spaans 
+(^|\.)spil\.dk$           # Deens 
+(^|\.)jogos\.pt$          # Portugees 
+(^|\.)oyun\.com$          # Turks 
+(^|\.)игры\.рф$           # Russisch (Unicode) 
+(^|\.)खेल\.भारत$         # Hindi (Unicode) 
+
+# Block pornographic domains 
+(^|\.)pornhub\.com$ 
+(^|\.)xvideos\.com$ 
+(^|\.)redtube\.com$ 
+(^|\.)youporn\.com$ 
+(^|\.)geilevideo\.nl$ 
+(^|\.)pornografie\.nl$ 
+(^|\.)seksfilms\.nl$ 
+(^|\.)pornografie\.be$ 
+(^|\.)seksfilms\.be$ 
+(^|\.)porno\.fr$ 
+(^|\.)pornografia\.es$ 
+(^|\.)pornografia\.it$ 
+(^|\.)porno\.de$ 
+(^|\.)порно\.ru$ 
+(^|\.)पोर्न\.भारत$ 
+(^|\.)포르노\.한국$ 
+
+# Block gambling-related domains 
+(^|\.)gambling\.com$ 
+(^|\.)gamble\.net$ 
+(^|\.)casino\.org$ 
+(^|\.)gokken\.nl$ 
+(^|\.)gokspelletjes\.nl$ 
+(^|\.)gokken\.be$ 
+(^|\.)casino\.be$ 
+(^|\.)jeuxdargent\.fr$ 
+(^|\.)glücksspiel\.de$ 
+(^|\.)scommesse\.it$ 
+(^|\.)apostas\.pt$ 
+(^|\.)bahis\.com$ 
+(^|\.)азартные\.рф$ 
+(^|\.)जुआ\.भारत$ 
+(^|\.)도박\.한국$  
